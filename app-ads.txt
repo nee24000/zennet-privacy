@@ -1,0 +1,6 @@
+# app-ads.txt — วางไฟล์นี้ที่ root ของโดเมนนักพัฒนา เช่น https://zennet.app/app-ads.txt
+# และตั้ง "Developer website" ใน Play Console / AdMob ให้ตรงกับโดเมนนี้
+# ตรวจสอบไฟล์ที่ https://admob.google.com → App settings → app-ads.txt
+#
+# ตัวอย่าง (แทนที่ pub-... ด้วยรหัส AdMob ของคุณเมื่อ Google ให้ค่าในหน้า app-ads.txt):
+google.com, pub-7016937397942190, DIRECT, f08c47fec0942fa0
